@@ -1,1 +1,1 @@
-const adURL = "https://omg10.com/4/10615631";
+const adURL = "https://omg10.com/4/9286605";
